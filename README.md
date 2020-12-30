@@ -1,4 +1,4 @@
-# pdf-processing
+# Password Checker
 
 This is an utility script to check if a given password has been hacked
 
